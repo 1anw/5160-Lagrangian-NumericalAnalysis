@@ -1,3 +1,9 @@
+"""
+Ridder's Method Code
+
+By: Ian Wixom
+"""
+
 import math
 import matplotlib.pyplot as plt
 from numpy import sign
